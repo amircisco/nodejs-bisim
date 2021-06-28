@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bisim",
+  "version": "1.3.12",
+  "description": "socketio bakcend of bisim project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amircisco/nodejs-bisim.git"
+  },
+  "author": "amircisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amircisco/nodejs-bisim/issues"
+  },
+  "homepage": "https://github.com/amircisco/nodejs-bisim#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
